@@ -60,10 +60,9 @@ I also have a little experience in website development. Worked in a small team t
 - Saint Petersburg State University of Engineering and Economics
   - Faculty of IT in economics and management (2012)
 - Courses:
-  - [sololearn.com](https://www.sololearn.com) courses for beginners (HTML, CSS, JavaScript, jQuery, Python for Beginners, Intermediate Python) <div>
+  - [sololearn.com](https://www.sololearn.com) courses for beginners (HTML, CSS, JavaScript, jQuery, Python for Beginners, Intermediate Python)
       <img src="https://api2.sololearn.com/v2/certificates/CT-XJHYLOOV/image/png" width="45%" />
-      <img src="https://api2.sololearn.com/v2/certificates/CT-NFGJBRSZ/image/png" width="45%" />    
-    </div>
+      <img src="https://api2.sololearn.com/v2/certificates/CT-NFGJBRSZ/image/png" width="45%" />        
   - [webformyself.com](https://webformyself.com) (courses on UI/UX and the basics of layout)
   - [webdesign-master.ru](https://webdesign-master.ru) (courses and videos on web design and layout, JavaScript and Gulp.)
   - [tutvid](https://www.youtube.com/channel/UCeR7U67I2J1icV8E6Rn40vQ), [Dansky](https://www.youtube.com/channel/UCAbq1eKey19tt-FfaIO1RMA), [Yes I'm a Designer](https://www.youtube.com/channel/UCT_of6HCtVZFpnnnLUeAGYA), [Satori Graphics](https://www.youtube.com/c/SatoriGraphics/videos) (Youtube channels with educational materials on graphic design and illustration)
