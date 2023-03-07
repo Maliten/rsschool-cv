@@ -4,9 +4,9 @@
 
 **Contact info:**
 
-**E-mail:** maliten@yandex.ru
-**Telegram:** @maliten
-**GitHub:** [Maliten](https://github.com/Maliten)
+**E-mail:** maliten@yandex.ru\
+**Telegram:** @maliten\
+**GitHub:** [Maliten](https://github.com/Maliten)\
 **Discord:** Andrey (@maliten)
 
 ---
@@ -17,3 +17,20 @@ I am interested in creating websites and programming, web and graphic design, as
 I find a good common language with different people.
 I am able to convey information clearly.
 I quickly learn new knowledge.
+
+---
+
+**Skills:**
+
+- HTML
+- Css/Sass
+- JS/TS (Basics)
+- Gulp
+- Python
+- PHP
+- VS Code/Sublime Text
+- Git/GitHub
+- Figma/Adobe XD
+- Tilda
+- Adobe Illustrator
+- Unity
