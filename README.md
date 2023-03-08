@@ -1,1 +1,1 @@
-https://Maliten.github.io/rsschool-cv/cv
+https://Maliten.github.io/rsschool-cv/
